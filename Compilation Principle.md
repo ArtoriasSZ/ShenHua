@@ -149,7 +149,7 @@
 ### SLR分析算法
 - 移进-归约算法的改进
 - 减少需要归约的情况，去除移进-归约冲突
-- ![img.png](SLR分析算法.png)
+- ![img.png](staticresource/SLR分析算法.png)
 
 
 
