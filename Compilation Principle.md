@@ -138,10 +138,10 @@
 - 从左向右读入程序，逆向最右推导，不采用（0）前看符号
 - 容易实现但是能分析的文法有限
 - 通过自动机构造分析表
-- ![img.png](LR(0)表.png)
+- ![img.png](staticresource/LR(0)表.png)
   - s：shift移进，r:reduce归约，g：goto跳转
 - LR(0)分析蒜贩
-  - ![img.png](LR(0)算法.png)
+  - ![img.png](staticresource/LR(0)算法.png)
 - LR(0)分析表构造算法
   - ![img.png](staticresource/LR(0)分析表构造算法.png)
   - ![img_1.png](staticresource/LR(0)分析表构造算法1.png)
